@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Firebase Notice App</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="admin_panel">Admin Panel</string>
+    <string name="add_notice">Add Notice</string>
+    <string name="notice_title">Notice Title</string>
+    <string name="notice_description">Notice Description</string>
+
+</resources>

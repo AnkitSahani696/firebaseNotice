@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718540588211",
+    "project_id": "fir-notice-370dc",
+    "storage_bucket": "fir-notice-370dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718540588211:android:1b2a0a49b59a2377685cc6",
+        "android_client_info": {
+          "package_name": "com.example.firebasenoticeapp.activities"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJu9UyRViSEIZVGqIq7IFZl7W9imLD6DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
